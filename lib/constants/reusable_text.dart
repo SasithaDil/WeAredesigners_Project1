@@ -15,6 +15,7 @@ class ReusableText extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    //The text that created for simplify the code and use anywere
     return Text(
       text,
       style: TextStyle(
