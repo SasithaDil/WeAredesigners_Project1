@@ -1,5 +1,17 @@
 # Task-1
 
+## Instructions
+
+ 1. Clone the repository
+ 2. Get dependencies (pub get)
+ 3. Run/Debug app
+
+### Versions
+
+Flutter SDK - Channel stable, 2.10.2 <br>
+Xcode - 13.2.1 <br>
+Android SDK version - 29.0.3 <br>
+
 <table>
 <tr>
 <td> 
